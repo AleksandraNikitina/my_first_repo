@@ -8,4 +8,4 @@ Add text in local repository.
 
 Add text in new_branch.
 
-Add local conflict.
+Add conflict in local version.
