@@ -8,4 +8,4 @@ Add text in local repository.
 
 Add text in new_branch.
 
-Resolve the conflict.
+Resolve the conflict. Text in browser.
